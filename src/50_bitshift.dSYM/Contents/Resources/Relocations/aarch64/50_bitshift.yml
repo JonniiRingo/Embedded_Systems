@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jonathansamuels/Embedded Systems/Arduino/lesson_01/src/50_bitshift'
+relocations:     []
+...
