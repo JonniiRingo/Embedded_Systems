@@ -18,7 +18,9 @@ int main(){
                 cout << "In case 2. Index = " << index << endl;
             } break;
 
-            case 3: 
+            case 3:
+            case 4: 
+            case 5:  // Case = 3 - 5 ;
             {
                 cout << "In case 3. Index = " << index << endl;
             } break;
